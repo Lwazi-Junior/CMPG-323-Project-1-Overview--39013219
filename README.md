@@ -37,6 +37,27 @@ In this repository, the following branching strategy will be used to manage the 
 
 Example workflow:
 
+
+1. **Create a new feature branch**:
+    ```bash
+    git checkout -b feature/new-feature
+    ```
+2. **Work on the feature and commit changes**:
+    ```bash
+    git add .
+    git commit -m "Add new feature"
+    ```
+3. **Merge feature branch into develop**:
+    ```bash
+    git checkout develop
+    git merge feature/new-feature
+    ```
+4. **When all features are complete, merge develop into main for production**:
+    ```bash
+    git checkout main
+    git merge develop
+    ```
+    
 ---
 
 ## 3. GitIgnore and Security
