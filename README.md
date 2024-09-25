@@ -108,23 +108,41 @@ Each project will have detailed technical documentation, which will be linked he
 ## References
 
 Agrawal, A., Gans, J. & Goldfarb, A., 2019. *The Economics of Artificial Intelligence: An Agenda*. University of Chicago Press.
+
 Chacon, S. & Straub, B., 2014. *Pro Git*. 2nd ed. Apress.
+
 Elmasri, R. & Navathe, S.B., 2015. *Fundamentals of Database Systems*. 7th ed. Pearson.
+
 Esposito, D., 2021. *Modern Web Development with ASP.NET Core 5*. 1st ed. Packt Publishing.
+
 Freeman, A., 2018. *Pro ASP.NET Core MVC 2*. 7th ed. Apress.
+
 Garrett, J.J., 2011. *The Elements of User Experience: User-Centered Design for the Web and Beyond*. 2nd ed. New Riders.
+
 Galloway, J., 2020. *Professional ASP.NET Core 3.0: Building Modern Web Apps with .NET*. 1st ed. Wrox Press.
+
 Harrington, J., 2009. *Relational Database Design and Implementation*. 3rd ed. Morgan Kaufmann.
+
 Jorgensen, M., 2019. *SQL Server 2019 Administration Inside Out*. 1st ed. Microsoft Press.
+
 Loeliger, J. & McCullough, M., 2012. *Version Control with Git*. 2nd ed. O'Reilly Media.
+
 Meszaros, G., 2007. *xUnit Test Patterns: Refactoring Test Code*. 1st ed. Addison-Wesley Professional.
+
 Price, M., 2018. *C# 7 and .NET Core 2.0 High Performance: Build Highly Performant Applications*. 1st ed. Packt Publishing.
+
 Rubin, K.S., 2012. *Essential Scrum: A Practical Guide to the Most Popular Agile Process*. Addison-Wesley.
+
 Schwaber, K. & Sutherland, J., 2017. *The Scrum Guide*. Available at: https://scrumguides.org.
+
 Silberschatz, A., Korth, H.F. & Sudarshan, S., 2020. *Database System Concepts*. 7th ed. McGraw-Hill Education.
+
 Teorey, T.J., Lightstone, S. & Nadeau, T., 2010. *Database Modeling and Design: Logical Design*. 5th ed. Morgan Kaufmann.
+
 UiPath, 2020. *UiPath Studio Documentation*. Available at: https://docs.uipath.com/studio/docs.
+
 Unger, R. & Chandler, C., 2012. *A Project Guide to UX Design*. 2nd ed. New Riders.
+
 Yochay, I., 2020. *Testing ASP.NET Core Applications*. Available at: https://docs.microsoft.com/en-us/aspnet/core/test/.
 
 
