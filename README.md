@@ -103,7 +103,7 @@ The following milestones have been defined for the CMPG 323 projects:
 
 Each project will have detailed technical documentation, which will be linked here. The documentation will include the solution design, data flow diagrams, technical assumptions, wireframes, and more.
 
-- **Link to Project 1 Documentation**: [Link to Lean Documentation](#) https://onedrive.live.com/personal/d4744e6d54744f21/_layouts/15/doc2.aspx?resid=2cddee6d-139d-4ee4-b655-744fa02c119d&cid=d4744e6d54744f21&action=edit&ct=1727364806916&wdOrigin=OFFICECOM-HWA.MAIN.UPLOAD&wdPreviousSessionSrc=HarmonyDesktop&wdPreviousSession=d04d1584-0f47-4ee3-bbd8-dea3d95fa6f7
+- **Link to Project 1 Documentation**: [Link to Lean Documentation](#) : https://docs.google.com/document/d/1aR5QFJm3rLOH0r9dnZcBYL-6EqKuxf6ePkE2NSfeqEw/edit?usp=sharing
 
 ## References
 
