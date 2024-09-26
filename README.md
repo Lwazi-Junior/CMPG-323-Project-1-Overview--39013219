@@ -10,7 +10,7 @@ Welcome to the repository for **CMPG 323**. This repository contains the code an
 3. [GitIgnore and Security](#gitignore-and-security)
 4. [Milestones and Projects](#milestones-and-projects)
 5. [Links to Documentation](#links-to-documentation)
-6. [Reference](#reference)
+6. [References](#references)
 
 ---
 
