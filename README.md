@@ -105,7 +105,7 @@ Each project will have detailed technical documentation, which will be linked he
 
 - **Link to Project 1 Documentation**: [Link to Lean Documentation](#) : https://docs.google.com/document/d/1aR5QFJm3rLOH0r9dnZcBYL-6EqKuxf6ePkE2NSfeqEw/edit?usp=sharing
 
-## References
+## 6. References
 
 Agrawal, A., Gans, J. & Goldfarb, A., 2019. *The Economics of Artificial Intelligence: An Agenda*. University of Chicago Press.
 
